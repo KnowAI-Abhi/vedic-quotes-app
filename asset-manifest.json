@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vedic-quotes-app/static/css/main.9b1bbc2b.css",
-    "main.js": "/vedic-quotes-app/static/js/main.bb500181.js",
+    "main.js": "/vedic-quotes-app/static/js/main.3e8d1786.js",
     "index.html": "/vedic-quotes-app/index.html",
     "main.9b1bbc2b.css.map": "/vedic-quotes-app/static/css/main.9b1bbc2b.css.map",
-    "main.bb500181.js.map": "/vedic-quotes-app/static/js/main.bb500181.js.map"
+    "main.3e8d1786.js.map": "/vedic-quotes-app/static/js/main.3e8d1786.js.map"
   },
   "entrypoints": [
     "static/css/main.9b1bbc2b.css",
-    "static/js/main.bb500181.js"
+    "static/js/main.3e8d1786.js"
   ]
 }
